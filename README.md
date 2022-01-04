@@ -8,9 +8,9 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="assets/code.gif" />
 
 <div align="left">
-   <h2>About Us:</h2>
+   <h2>About Us</h2>
    <p>We are an avid CTF team who love to learn and help others! We also do HacktheBox and TryHackMe!</p>
 </div>
 
-<!-- Our Team --!>
 
+## Meet Us!
